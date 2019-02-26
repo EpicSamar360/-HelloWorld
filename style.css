@@ -1,0 +1,24 @@
+body {
+    background-color: black; 
+}
+h1 {
+    color: white;
+}
+nav {
+    text-transform: uppercase;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-item { background-color: blue;
+}
+.nav-link:hover{
+    opacity: 1.0;
+}
+header {
+    background-image: url("https://img1.10bestmedia.com/Images/Photos/352450/GettyImages-913753556_55_660x440.jpg");
+    text-align: center;
+
+    height: 600px;
+    background-size: cover;
+}
+
